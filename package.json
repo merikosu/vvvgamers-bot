@@ -1,0 +1,24 @@
+{
+  "name": "vvvcash-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merikovich/vvvcash-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/merikovich/vvvcash-bot/issues"
+  },
+  "homepage": "https://github.com/merikovich/vvvcash-bot#readme",
+  "dependencies": {
+    "telegraf": "^4.4.0",
+    "telegraf-inline-menu": "^6.2.1"
+  }
+}
