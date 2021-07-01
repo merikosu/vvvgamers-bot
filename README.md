@@ -1,4 +1,4 @@
-# VVV.Cash Telegram Bot
+# VVV.CASH Telegram Bot
 
 This bot sends links to platform chats in Telegram.
 
