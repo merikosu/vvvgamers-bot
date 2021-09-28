@@ -6,6 +6,7 @@ menuTemplate.url('Lichess', 'https://t.me/vvv_lichess')
 menuTemplate.url('PUBG Mobile', 'https://t.me/vvv_pubg_mobile', { joinLastRow: true })
 menuTemplate.url('Clash Royale', 'https://t.me/vvv_clash_royale')
 menuTemplate.url('Brawl Stars', 'https://t.me/vvv_brawlstars', { joinLastRow: true })
+menuTemplate.url('PUBG', 'https://t.me/vvv_pubg_desktop')
 
 const chooseGameMenu = new MenuMiddleware('/', menuTemplate)
 
